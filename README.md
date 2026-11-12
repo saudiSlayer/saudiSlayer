@@ -1,4 +1,4 @@
-# Hey, I'm Delight 👋
+# Hey, I'm Delight
 
 ### Digital Forensics & Cybersecurity Student at TU Dublin
 
@@ -13,28 +13,28 @@ I've been using projects, labs and platforms like TryHackMe to build my practica
 - **Security & Networking:** Wireshark, pfSense, TCP/IP, Packet Tracer
 - **Tools & Platforms:** GitHub, VirtualBox, FTK Imager, Microsoft Azure
 
-## 🔐 Projects I've Been Working On
+##  Projects I've Been Working On
 
-### 🖥️ Mini SOC Alert Triage
+### Mini SOC Alert Triage
 A Python project where I analyse authentication logs and look for suspicious activity such as brute-force attempts, password spraying and possible account compromise.
 
 [Check out the project](https://github.com/saudiSlayer/Mini-SOC-Alert-Traige)
 
-### 🔍 Windows Threat Hunting Lab
+### Windows Threat Hunting Lab
 A hands-on project focused on analysing Windows security events and detecting suspicious activity, including unusual PowerShell commands, brute-force attempts and suspicious system utilities.
 
 [Check out the project](https://github.com/saudiSlayer/Windows-Threat-Hunting-Lab)
 
-### 📧 PhishLens
+### PhishLens
 A Python-based tool that analyses sample emails for potential phishing indicators, looking at sender mismatches, suspicious wording and URLs to calculate a risk score.
 
 [Check out the project](https://github.com/saudiSlayer/PhishLens)
 
-## 📚 What I'm Currently Learning
+## What I'm Currently Learning
 
 I'm continuing to develop my skills in digital forensics, threat hunting, security operations and scripting. I'm also exploring hands-on cybersecurity challenges to get more comfortable working with real-world security concepts.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/delight-nkomo-166830265/)
 - [GitHub](https://github.com/saudiSlayer)

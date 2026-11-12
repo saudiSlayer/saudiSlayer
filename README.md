@@ -6,7 +6,7 @@ I'm currently studying Digital Forensics and Cybersecurity at Technological Univ
 
 I've been using projects, labs and platforms like TryHackMe to build my practical skills and learn more outside the classroom. I'm always looking to improve, try new tools and take on new challenges.
 
-## 🛠️ Things I've Been Working With
+## Things I've Been Working With
 
 - **Programming:** Python, PowerShell, SQL
 - **Operating Systems:** Windows and Linux
